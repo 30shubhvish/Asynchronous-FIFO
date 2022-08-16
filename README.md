@@ -1,2 +1,2 @@
-# Asynchronous-FIFO-
+# Asynchronous-FIFO
  Design of Asynchronous FIFO 
